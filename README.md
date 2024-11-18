@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi there 👋, I'm [Your Name]!
+# Hi there 👋, I'm Venkatesh
 
 Welcome to my GitHub profile! I'm a passionate developer and lifelong learner, always exploring new technologies and working on exciting projects. Below you'll find a bit more about me, what I love, and some of my favorite work.
 
